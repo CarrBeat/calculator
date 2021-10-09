@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tvSize">15sp</dimen>
+    <dimen name="tvSizeS">25sp</dimen>
+    <dimen name="marStart">4dp</dimen>
+    <dimen name="a">0.539</dimen>
+    <dimen name="b">0.93</dimen>
+    <dimen name="c">0.446</dimen>
+    <dimen name="d">0.925</dimen>
+    <dimen name="e">0.355</dimen>
+    <dimen name="f">0.064</dimen>
+    <dimen name="g">0.378</dimen>
+    <dimen name="h">0.071</dimen>
+    <dimen name="j">0.465</dimen>
+    <dimen name="k">25</dimen>
+</resources>
